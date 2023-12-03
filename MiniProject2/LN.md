@@ -1,0 +1,31 @@
+|Language| Extensions|
+|-|-|
+|JavaScript|js|
+|TypeScript|ts|
+|Python|py|
+|Jupyter notebook|ipynb|
+|C/C++|[Cch],cpp,hh,cc,hpp,cxx|
+|Java|java|
+|C#|cs|
+|PHP|php,[php[34]|
+|Ruby|rb|
+|Go|go|
+|Rust|rs,rlib,rst|
+|R|[rR],Rd|
+|Swift|swift|
+|Scala|scala|
+|Perl|pl,PL,pm,podperl,cgi|
+|Fortran|f[hi],[fF],[fF]77,[fF]9[0-9],fortran,forth|
+|Ada|ad[abs]|
+|Erlang|erl|
+|Lua|lua|
+|Sql|sql,sqllite,sqllite3,mysql|
+|Lisp|el,lisp,elc|
+|Julia|jl|
+|Cobol|COB,CBL,cob,cbl|
+|Shell|sh,vsh,ksh,csh|
+|pascal|pas|
+|Haskel|hs,lhs|
+|VisualBasic|vb|
+|Assembly|asm|
+|Dart|dart|
