@@ -1,0 +1,37 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: p11at07.csv,,,,,,,
+"Appendix table 7. Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin, December 31, 2008",,,,,,,
+Report title: Prisoners in 2011 NCJ 239808,,,,,,,
+Data source(s): National Prisoner Statistics Program,,,,,,,
+Author(s): E. Ann Carson and William J. Sabol,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,
+Date of version: 12/05/2012,,,,,,,
+ ,,,,,,,
+"Appendix table 7. Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin, December 31, 2008",,,,,,,
+,,,,,,,
+Offense,,All inmates,Male,Female,White/a,Black/a,Hispanic
+,Total,"1,365,409","1,270,629","94,780","469,076","528,008","280,716"
+Violent,,"710,400","675,900","33,500","232,700","280,200","152,700"
+,Murder/b,"166,900","157,200","9,600","46,900","71,500","37,000"
+,Manslaughter,"21,100","18,500","2,700","8,800","7,500","2,900"
+,Rape,"72,200","71,200",700,"34,400","22,100","9,000"
+,Other sexual assault,"90,700","89,100","1,200","45,800","18,500","22,700"
+,Robbery,"185,600","177,300","8,100","41,300","95,400","36,500"
+,Assault,"137,600","129,300","8,200","42,600","52,600","35,900"
+,Other violent,"36,300","33,300","3,000","12,900","12,700","8,700"
+Property,,"252,200","225,700","27,000","111,900","77,800","43,600"
+,Burglary,"129,500","123,000","6,300","54,700","43,100","22,100"
+,Larceny,"44,200","37,100","7,400","19,200","14,400","7,000"
+,Motor vehicle theft,"18,200","16,900","1,400","7,100","3,900","7,300"
+,Fraud,"31,600","22,700","9,400","16,300","9,000","3,000"
+,Other property,"28,600","26,000","2,600","14,600","7,400","4,100"
+Drug/c,,"258,000","232,600","25,900","69,400","121,600","50,200"
+Public-order/d,,"135,500","128,100","7,300","51,300","45,100","32,900"
+Other/unspecified/e,,"9,300","8,400","1,000","3,800","3,300","1,400"
+Note: Counts are based on state prisoners with a sentence of more than 1 year.  Detail may not sum to total due to rounding and missing offense data. See Methodology for estimation method.,,,,,,,
+a/Excludes persons of Hispanic or Latino origin and persons of two or more races.,,,,,,,
+b/Includes non-negligent manslaughter.,,,,,,,
+"c/Includes trafficking, possession, and other drug offenses.",,,,,,,
+"d/Includes weapons, drunk driving, court offenses, commercialized vice, morals and decency offenses, liquor law violations, and other public-order offenses.",,,,,,,
+e/Includes juvenile offenses and other unspecified offense categories.,,,,,,,
+"Sources: Bureau of Justice Statistics, National Prisoner Statistics Program and National Corrections Reporting Program, 2008.",,,,,,,

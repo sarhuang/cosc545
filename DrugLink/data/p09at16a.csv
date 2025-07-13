@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: p09at16a.csv,,,,,,,
+"Appendix table 16a: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin, yearend 2006",,,,,,,
+Report title: Prisoners in 2009 NCJ 231675,,,,,,,
+"Data source: National Prisoner Statistics, 1b",,,,,,,
+"Authors: Heather C. West, Ph.D., William J. Sabol, Ph.D., and Sarah J. Greenman",,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,
+"Date of version: October 25, 2011",,,,,,,
+,,,,,,,
+"Appendix table 16a. Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin, yearend 2006",,,,,,,
+Offense,,All inmates,Male,Female,White/a,Black/a,Hispanic
+,Total,"1,331,100","1,238,900","92,200","474,200","508,700","248,900"
+Violent,,"693,400","661,600","31,800","234,200","272,000","134,300"
+,Murder/b,"168,600","158,200","10,200","51,200","69,900","32,500"
+,Manslaughter,"16,100","14,200","1,600","4,900","6,200","3,900"
+,Rape,"65,800","65,300",500,"31,700","22,000","7,700"
+,Other sexual assault,"93,600","92,500","1,300","52,100","18,700","19,200"
+,Robbery,"178,900","171,600","7,500","38,700","92,900","31,200"
+,Assault,"133,900","125,500","7,800","41,800","49,200","32,700"
+,Other violent,"37,100","34,400","2,800","13,700","13,100","7,300"
+Property,,"258,200","230,700","27,500","119,900","80,400","40,700"
+,Burglary,"126,100","119,800","6,000","55,800","42,100","20,000"
+,Larceny,"49,500","41,900","7,800","22,700","16,500","6,400"
+,Motor vehicle theft,"22,700","21,000","1,600","9,100","5,000","7,800"
+,Fraud,"33,600","23,700","9,800","18,500","9,500","2,700"
+,Other property,"26,400","24,400","2,200","13,500","7,300","4,000"
+Drug,,"264,300","238,600","26,200","71,700","118,300","53,600"
+Public-order/c,,"101,300","95,700","5,500","43,700","32,300","18,800"
+Other/unspecified/d,,"13,300","12,300","1,200","4,900","5,600","1,600"
+Note: Totals based on prisoners with a sentence of more than 1 year. Detail may not add to total due to rounding.  See Methodology for estimation method.,,,,,,,
+a/Excludes Hispanics and persons identifying two or more races.,,,,,,,
+b/Includes non-negligent manslaughter.,,,,,,,
+"c/Includes weapons, drunk driving, court offenses, commercialized vice, morals and decency offenses, liquor law violations, and other public-order offenses.",,,,,,,
+d/Includes juvenile offenses and other unspecified offense categories.,,,,,,,

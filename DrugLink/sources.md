@@ -1,0 +1,6 @@
+[Bureau of Justice Statistics](https://bjs.ojp.gov/drugs-and-crime-facts/drug-use-and-crime)  
+[National Center for Drug Abuse Statistics](https://drugabusestatistics.org/drug-related-crime-statistics/)  
+[Prision Policy Initiative](https://www.prisonpolicy.org/blog/2020/07/27/disparities/?gclid=CjwKCAjwgsqoBhBNEiwAwe5w0yg5sxTORGVk5z3bEUUYX4PlvpfqaKJF-6bfUty_2gPw5mMwSpjjmxoCPW8QAvD_BwE)  
+[National Prisioner Statistics](https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps-program#publications-0)   
+[Geographic Variation in the cost of Opiod Crisis](https://www.aei.org/research-products/working-paper/the-geographic-variation-in-the-cost-of-the-opioid-crisis/?gclid=CjwKCAjwgsqoBhBNEiwAwe5w0yWiW0W07B9q7vtjcOllBLaCjJDuHhNUV08Wtfcq6X5grWFRPF-hmRoCCQ8QAvD_BwE)   
+[Foundation for a Drug Free World](https://www.drugfreeworld.org/drugfacts/crackcocaine/a-short-history.html)   

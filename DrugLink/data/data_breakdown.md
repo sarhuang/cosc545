@@ -1,0 +1,68 @@
+## Data Files
+- p09at16a - 2006: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin 
+- p09at16b - 2007: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin  
+- p09at16c - 2008: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin  
+- p09at17a-c: Percentages  
+- p09at18 - 2000, 2008, 2009: Number of sentenced prisoners in federal prison, by most serious offense 
+- p09t07 - 2000, 2008: Estimated number of sentenced prisoners under state jurisdiction, by offense category 
+- p09t08 - 2000, 2008:  Estimated number of admissions into state prison, by offense category 
+- p09t09 - 2008: Actual and expected number of sentenced prisoners in state prison, by offense category 
+- p09t10 - 2000, 2007, 2008: Estimated number of admissions into state prison, by offense category  
+- p10at16a - December 31, 2008: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin  
+- p10at16b - December 31, 2009: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin  
+- p10at17a-b: Percentages
+- p10at18 - September 30, 2000, 2009, 2010: Sentenced prisoners under federal jurisdiction, by most serious offense
+- p11at07 - December 31, 2008: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin
+- p11at08 - December 31, 2009: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin
+- p11at09-10 - Percentages
+- p11at11 - December 31, 2010: Estimated number of sentenced prisoners under federal jurisdiction, by offense
+- p11at12 - Percentages
+- p11t09 - December 31, 2010: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin
+- p11t10 - December 31, 2000, 2010: Estimated number of sentenced prisoners under state jurisdiction, by offense
+- p11t11 - December 31, 2000, 2010, 2011: Estimated number of sentenced prisoners under state jurisdiction, by offense
+- p12tar9112at02 - 1991, 2001, 2006, 2011: Estimated unconditional releases from state prison, by race, Hispanic origin, and most serious offense
+- p12tar9112at10_new - September 30, 2002, 2011, 2012: Sentenced federal prisoners, by sex and most serious offense
+- p12tar9112at11_new - p12tar9112at12: Percentages
+- p12tar9112f04 - 1991, 2001, 2006, 2011: Drug offenders admitted to state prison and in the yearend prison population, by type of admission
+- p12tar9112f05 - p12tar9112t15: Percentages
+- p13t13: Percentages
+- p13t14 - December 31, 2012: Estimated sentenced prisoners under state jurisdiction, by offense and sex, race, and Hispanic origin
+- p13t15 - September 30, 2001-2013: Estimated sentenced prisoners under the custody of federal correctional authorities, by offense
+- p13t16: Percentages
+- p13t17: 2002, 2012: Median time served by released state prison inmates admitted on new court commitments, by sex and offense
+- p14at04 - December 31, 2013: Estimated number of sentenced prisoners under state jurisdiction, by offense, sex, race, and Hispanic origin
+- p14at05 - September 30, 2014: Estimated sentenced prisoners under federal correctional authority, by most serious offense, sex, and race
+- p14at11-14: Percentages
+- p15at05 - December 31, 2014: Number of sentenced prisoners under the jurisdiction of state correctional authority, by most serious offense, sex, race, and Hispanic origin
+- p15at06 - September 30, 2015: Number of sentenced prisoners under the jurisdiction of federal correctional authority, by most serious offense, sex, race, and Hispanic origin
+- p15at09-10: Percentages
+- p16t12: Percentages
+- p16t13 - December 31, 2015: Number of sentenced prisoners under jurisdiction of state correctional authority, by most serious offense, sex, race, and Hispanic origin
+- p16t14: Percentages 
+- p16t15 - September 30, 2016: Number of sentenced prisoners under jurisdiction of federal correctional authority, by most serious offense, that race, sex and Hispanic origin
+- p16t19: Percentages
+- p17t12: Percentages
+- p17t13 - December 31, 2016: Number of sentenced prisoners under jurisdiction of state correctional authorities, by most serious offense, sex, race, and Hispanic origin
+- p17t14: Percentages
+- p17t15 - Septemer 30, 2017: Prisoners who received a sentence of any length in the custody of publicly or privately operated federal correctional facilities, numbers by most serious offense, sex, race, and Hispanic origin
+- p17t19: Percentages
+- p18t13: Percentages
+- p18t14 - December 31, 2017: Number of sentenced prisoners under jurisdiction of state correctional authorities, by most serious offense, sex, and race or ethnicity
+- p18t15: Percentages
+- p18t16 - September 30, 2018: Number of sentenced prisoners held in publicly or privately operated federal correctional facilities, by most serious offense, sex, and race or ethnicity
+- p18t20: Percentages
+- p19t13: Percentages
+- p19t14 - December 31, 2018: Number of sentenced prisoners under the jurisdiction of state correctional authorities, by most serious offense, sex, and race or ethnicity
+- p19t15: Percentages
+- p19t16 - September 30, 2019: Number of sentenced federal prisoners held in publicly or privately operated correctional facilities, by most serious offense, sex, and race or ethnicity
+- p19t20: Percentages
+- p20stt14: Percentages
+- p20stt15 - December 31, 2019: Number of sentenced prisoners under the jurisdiction of state correctional authorities, by sex, race or ethnicity, and most serious offense
+- p20stt17: Percentages
+- p20stt18 - September 30, 2020: Number of sentenced federal prisoners held in BOP or privately operated correctional facilities, by sex, race or ethnicity, and most serious offense
+- p20stt22: Percentages
+- p21stt16: Percentages
+- p21stt17 - December 31, 2020: Number of sentenced prisoners under the jurisdiction of state correctional authorities, by sex, race or Hispanic origin, and most serious offense
+- p21stt19: Percentages
+- p21stt20 - September 30, 2021: Number of sentenced federal prisoners held in BOP or privately operated correctional facilities, by sex, race or Hispanic origin, and most serious offense
+- p21stt24: Percentages

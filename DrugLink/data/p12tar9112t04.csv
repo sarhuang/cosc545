@@ -1,0 +1,37 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: p12tar9112t04.csv,,,,,,,,,
+"Table 4. Estimated state prison admissions, by most serious offense, 1991, 2001, 2006, and 2011",,,,,,,,,
+Report title: Prisoners in 2012: Trends in Admissions and Releases 1991-2012 NCJ 243920,,,,,,,,,
+"Data source(s): National Prisoner Statistics Program, National Corrections Reporting Program",,,,,,,,,
+Author(s): E. Ann Carson and Daniela Golinelli,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,
+Date of version: 12/19/2013,,,,,,,,,
+ ,,,,,,,,,
+"Table 4. Estimated state prison admissions, by most serious offense, 1991, 2001, 2006, and 2011",,,,,,,,,
+Most serious offense,,1991,,2001,,2006,,2011,
+,Total,100,%,100,%,100,%,100,%
+Violent,,26.9,%,27.3,%,26.1,%,29.1,%
+,Murder/a,2.6,,2.1,,1.7,,2,
+,Negligent manslaughter,1,,0.8,,0.7,,0.7,
+,Rape/sexual assault,4.9,,5.2,,5.1,,5.4,
+,Robbery,10.5,,8.5,,7,,8,
+,Assault,6.7,,8.7,,9.3,,10.6,
+,Other violent,1.1,,2.1,,2.3,,2.4,
+Property,,35.4,%,29.4,%,29.1,%,29,%
+,Burglary,16.1,,11.4,,10.7,,12.4,
+,Larceny,9.4,,7.5,,6.6,,6.1,
+,Motor vehicle theft,3,,2.7,,3.4,,2.6,
+,Fraud,3.9,,4.2,,4.7,,3.9,
+,Other property,2.9,,3.6,,3.7,,4,
+Drug,,28.3,%,32.1,%,29.9,%,25.4,%
+,Possession,7,,8.9,,9.7,,8,
+,Other drug/b,21.3,,23.3,,20.2,,17.3,
+Public order/c,,7.8,%,10.6,%,14.4,%,15.8,%
+Other/unspecified/d,,1.6,%,0.5,%,0.6,%,0.8,%
+,Number of admissions,"466,285",,"593,838",,"689,536",,"610,917",
+"Note: Counts based on prisoners with a sentence of more than 1 year admitted to state prison. Excludes transfers, escapes, and those absent without leave (AWOL). Detail may not sum to total due to rounding and missing offense data. Admission totals from National Prisoner Statistics Program. Offense distribution based on National Corrections Reporting Program administrative data. See Methodology. Estimates may vary from those previously published due to differences in methodology.",,,,,,,,,
+a/Includes nonnegligent manslaughter.,,,,,,,,,
+b/Includes drug trafficking.,,,,,,,,,
+"c/Includes weapons, drunk driving, and court offenses; habitual offender sanctions; commercialized vice, morals, and decency offenses; and liquor law violations and other public order offenses.",,,,,,,,,
+d/Includes juvenile offenses and other unspecified offense categories.,,,,,,,,,
+"Sources: Bureau of Justice Statistics, National Prisoner Statistics Program and National Corrections Reporting Program, 1991, 2001, 2006, and 2011.",,,,,,,,,

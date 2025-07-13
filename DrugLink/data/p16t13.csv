@@ -1,0 +1,43 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: p16t13.csv,,,,,,,
+"Table 13. Number of sentenced prisoners under jurisdiction of state correctional authority, by most serious offense, sex, race, and Hispanic origin, December 31, 2015",,,,,,,
+Report title: Prisoners in 2016 NCJ 251149,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2015; National Corrections Reporting Program, 2015; Survey of Inmates in State Correctional Facilities, 2004; and Survey of Prison Inmates, 2016 (preliminary).",,,,,,,
+"Author(s): E. Ann Carson, BJS Statistician",,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,
+Date of version: 1/2/2018,,,,,,,
+,,,,,,,
+,,,,,,,
+"Table 13. Number of sentenced prisoners under jurisdiction of state correctional authority, by most serious offense, sex, race, and Hispanic origin, December 31, 2015",,,,,,,
+Most serious offense,,All prisoners/a,Male,Female,White/b,Black/b,Hispanic
+,Total/c,"1,298,159","1,204,799","93,360","403,600","429,000","278,600"
+Violent,,"707,900","673,400","34,500","190,100","252,300","167,700"
+,Murder/d,"177,600","166,800","10,900","41,300","66,800","42,600"
+,Manslaughter,"17,500","15,300","2,200","5,500","3,600","2,800"
+,Rape or sexual assault,"161,900","159,600","2,200","64,700","35,000","37,800"
+,Robbery,"171,400","163,900","7,600","30,300","82,700","36,000"
+,Aggravated or simple assault,"135,700","127,600","8,100","35,900","49,600","37,200"
+,Other,"43,800","40,200","3,600","12,300","14,600","11,300"
+Property,,"234,000","208,900","25,100","96,900","65,000","35,700"
+,Burglary,"126,000","119,200","6,800","47,000","39,600","21,100"
+,Larceny-theft,"47,700","39,500","8,200","21,000","12,000","6,100"
+,Motor vehicle theft,"9,400","8,700",700,"4,000","2,300","2,500"
+,Fraud,"24,700","18,100","6,600","12,400","6,000","2,800"
+,Other,"26,200","23,400","2,800","12,500","5,100","3,200"
+Drug,,"197,200","174,000","23,200","61,000","61,600","38,800"
+,Drug possession,"44,700","38,400","6,400","15,100","13,900","8,700"
+,Other/e,"152,500","135,600","16,900","45,900","47,700","30,100"
+Public order,,"150,100","140,600","9,500","52,200","48,200","35,400"
+,Weapons,"50,500","48,900","1,600","10,600","22,900","14,000"
+,DUI,"25,300","22,900","2,400","11,600","3,300","7,600"
+,Other/f,"74,400","68,800","5,500","29,900","22,100","13,800"
+Other/unspecified/g,,"8,900","7,900","1,000","3,500","1,900","1,100"
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Estimates are based on state prisoners with a sentence of more than 1 year. Detail may not sum to total due to rounding and missing offense data. See Methodology.",,,,,,,
+"a/Includes American Indians and Alaska Natives; Asians, Native Hawaiians, or Other Pacific Islanders; and persons of two or more races.",,,,,,,
+b/Excludes persons of Hispanic or Latino origin and persons of two or more races.,,,,,,,
+c/Race and Hispanic origin totals are rounded to the nearest 100 to accommodate differences in data collection techniques between jurisdictions.,,,,,,,
+d/Includes nonnegligent manslaughter.,,,,,,,
+e/Includes trafficking and other drug offenses.,,,,,,,
+"f/Includes court offenses; commercialized vice, morals, and decency offenses; liquor law violations; and other public order offenses.",,,,,,,
+g/Includes juvenile offenses and other unspecified offense categories.,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2015; National Corrections Reporting Program, 2015; Survey of Inmates in State Correctional Facilities, 2004; and Survey of Prison Inmates, 2016 (preliminary).",,,,,,,

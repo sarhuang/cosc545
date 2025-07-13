@@ -1,0 +1,37 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: p12tar9112t03.csv,,,,,,,,,
+"Table 3. Estimated percent of sentenced prisoners under state jurisdiction, by most serious offense, December 31, 1991, 2001, 2006, and 2011",,,,,,,,,
+Report title: Prisoners in 2012: Trends in Admissions and Releases 1991-2012 NCJ 243920,,,,,,,,,
+"Data source(s): National Prisoner Statistics Program, National Corrections Reporting Program, Survey of Inmates in State Correctional Facilities",,,,,,,,,
+Author(s): E. Ann Carson and Daniela Golinelli,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,
+Date of version: 12/19/2013,,,,,,,,,
+ ,,,,,,,,,
+"Table 3. Estimated percent of sentenced prisoners under state jurisdiction, by most serious offense, December 31, 1991, 2001, 2006, and 2011",,,,,,,,,
+Most serious offense,,1991,,2001,,2006,,2011,
+,Total,100,%,100,%,100,%,100,%
+Violent,,44.6,%,50.6,%,50.4,%,53.5,%
+,Murder/a,10.8,,12.1,,11.4,,12.6,
+,Negligent manslaughter,2.1,,1.4,,1.4,,1.5,
+,Rape/sexual assault,8.2,,11.2,,11.8,,12.4,
+,Robbery,13.9,,13.5,,13.2,,13.7,
+,Assault,7.9,,9.7,,9.9,,10.3,
+,Other violent,1.7,,2.7,,2.7,,2.9,
+Property,,25.3,%,20.6,%,19.6,%,18.6,%
+,Burglary,11.2,,10.3,,9.6,,9.9,
+,Larceny,5.8,,4,,3.4,,3.2,
+,Motor vehicle theft,1.9,,1.4,,1.6,,1.1,
+,Fraud,3.9,,2.5,,2.7,,2.2,
+,Other property,2.5,,2.4,,2.3,,2.2,
+Drug,,23,%,21,%,20,%,16.6,%
+,Possession,8.2,,4.6,,5.3,,4.1,
+,Other drug/b,14.8,,16.4,,14.7,,12.5,
+Public order/c,,6.6,%,7.2,%,9.4,%,10.6,%
+Other/unspecified/d,,0.4,%,0.6,%,0.6,%,0.7,%
+,Number of sentenced prisoners,"732,916",,"1,208,708",,"1,331,065",,"1,341,797",
+Note: Counts based on prisoners under state jurisdiction on December 31 with a sentence of more than 1 year. Detail may not sum to total due to rounding and missing offense data. Estimates may vary from those previously published due to differences in methodology. Sentenced prisoner totals from National Prisoner Statistics Program. Offense distribution based on National Corrections Reporting Program administrative data. See Methodology.,,,,,,,,,
+a/Includes nonnegligent manslaughter.,,,,,,,,,
+b/Includes drug trafficking.,,,,,,,,,
+"c/Includes weapons, drunk driving, and court offenses; habitual offender sanctions; commercialized vice, morals, and decency offenses; and liquor law violations and other public order offenses.",,,,,,,,,
+d/Includes juvenile offenses and other unspecified offense categories.,,,,,,,,,
+"Sources: Bureau of Justice Statistics, National Prisoner Statistics Program, 1991, 2001, 2006, and 2011; National Corrections Reporting Program, 2001, 2006, and 2011; and Survey of Inmates in State Correctional Facilities, 1991.",,,,,,,,,

@@ -1,0 +1,47 @@
+Spreadsheet,Date,Estimated or Actual,Federal or State,Offense,All inmates,Male,Female,White,Black,Hispanic,Other,American Indian/Alaska Native,Asian
+p12tar9112at10_new,9/30/2002,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",80986,74823,6163,NA,NA,NA,NA,NA,NA
+p09at16a,12/31/2006,Estimated,State,Drug,264300,238600,26200,71700,118300,53600,NA,NA,NA
+p09at16b,12/31/2007,Estimated,State,Drug,273600,247000,26600,70300,124400,57000,NA,NA,NA
+p09at16c,12/31/2008,Estimated,State,Drug,251400,225900,25500,68300,113900,48500,NA,NA,NA
+p10at16a,12/31/2008,Estimated,State,Drug,255700,229800,25800,76900,130300,43300,NA,NA,NA
+p11at07,12/31/2008,Estimated,State,"Other (Includes trafficking, possession, and other drug offenses.)",258000,232600,25900,69400,121600,50200,NA,NA,NA
+p10at16b,12/31/2009,Estimated,State,Drug,242900,218800,24000,73900,122600,41400,NA,NA,NA
+p11at08,12/31/2009,Estimated,State,"Other (Includes trafficking, possession, and other drug offenses.)",247900,224500,24600,69200,114000,49400,NA,NA,NA
+p11t09,12/31/2010,Estimated,State,"Other (Includes trafficking, possession, and other drug offenses.)",237000,215600,23400,69500,105600,47800,NA,NA,NA
+p12tar9112at10_new,9/30/2011,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",103352,95971,7372,NA,NA,NA,NA,NA,NA
+p12tar9112at10_new,9/30/2012,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",99426,92291,7135,NA,NA,NA,NA,NA,NA
+p13t14,12/31/2012,Estimated,State,Drug,210200,188400,21900,64800,79300,41100,9600,NA,NA
+p13t14,12/31/2012,Estimated,State,Drug possession,49100,43200,6000,18400,19900,11300,3000,NA,NA
+p13t14,12/31/2012,Estimated,State,"Other (Includes trafficking, possession, and other drug offenses.)",161100,145200,15900,46400,59400,29800,6600,NA,NA
+p14at04,12/31/2013,Estimated,State,Drug,208000,186000,22000,67800,79900,39900,NA,NA,NA
+p14at04,12/31/2013,Estimated,State,Drug possession,47400,41700,5700,17700,18800,11400,NA,NA,NA
+p14at04,12/31/2013,Estimated,State,"Other (Includes trafficking, possession, and other drug offenses.)",160500,144300,16300,50000,61100,28400,NA,NA,NA
+p14at05,9/30/2014,Estimated,State,"Other (Includes trafficking, possession, and other drug offenses.)",96500,89100,7400,20800,37400,36300,NA,NA,NA
+pt15at05,12/31/2014,Actual,State,Drug,206300,182700,23500,67800,68000,28800,NA,NA,NA
+pt15at05,12/31/2014,Actual,State,Drug possession,46000,39900,6100,17400,16100,5700,NA,NA,NA
+pt15at05,12/31/2014,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",160300,142900,17300,50500,51800,23100,NA,NA,NA
+p15at06,9/30/2015,Estimated,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",92000,85000,7100,19900,35200,35000,NA,NA,NA
+p16t13,12/31/2015,Actual,State,Drug,197200,174000,23200,61000,61600,38800,NA,NA,NA
+p16t13,12/31/2015,Actual,State,Drug possession,44700,38400,6400,15100,13900,8700,NA,NA,NA
+p16t13,12/31/2015,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",152500,135600,16900,45900,47700,30100,NA,NA,NA
+p16t15,9/30/2016,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",81900,75600,6300,17700,31000,31600,NA,NA,NA
+p17t13,12/31/2016,Actual,State,Drug,190100,166800,23500,61600,57900,38600,NA,NA,NA
+p17t13,12/31/2016,Actual,State,Drug possession,45300,38500,6900,16300,13300,8800,NA,NA,NA
+p17t13,12/31/2016,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",144800,128300,16600,45300,44500,29800,NA,NA,NA
+p17t15,9/30/2017,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",78800,72500,6300,17300,29000,31000,NA,NA,NA
+p18t14,12/31/2017,Actual,State,Drug,183900,160200,23800,62600,52800,37100,NA,NA,NA
+p18t14,12/31/2017,Actual,State,Drug possession,46800,39500,7400,17800,13200,8400,NA,NA,NA
+p18t14,12/31/2017,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",137100,120800,16400,44800,39600,28700,NA,NA,NA
+p18t16,9/30/2018,Actual,Federal,"Includes trafficking, possession, and other drug offenses. More than 99% of federal drug offenders were sentenced for trafficking.",76700,70300,6400,17400,27400,30300,NA,NA,NA
+p19t14,12/31/2018,Actual,State,Drug,176300,155400,23900,64500,52100,28800,NA,NA,NA
+p19t14,12/31/2018,Actual,State,Drug possession,46500,39300,7900,20000,12400,4700,NA,NA,NA
+p19t14,12/31/2018,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",129900,116100,15900,44500,39700,24100,NA,NA,NA
+p19t16,9/30/2019,Actual,Federal,"Includes trafficking, possession, and other drug offenses. More than 99% of federal drug offenders were sentenced for trafficking.",73210,66700,6500,17500,25000,29200,NA,NA,NA
+p20stt15,12/31/2019,Actual,State,Drug,171300,147800,23400,64300,48600,31100,NA,2000,1700
+p20stt15,12/31/2019,Actual,State,Drug possession,46700,38800,7900,20600,11400,8800,NA,400,200
+p20stt15,12/31/2019,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",129900,116100,15900,44500,39700,24100,NA,1600,1400
+p20stt18,9/30/2020,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",67438,61400,6000,16800,22400,26800,NA,500,900
+p21stt17,12/31/2020,Actual,State,Drug,131600,114600,17400,49500,37300,14600,NA,1700,1100
+p21stt17,12/31/2020,Actual,State,Drug possession,33700,28500,5300,14800,7900,3000,NA,400,200
+p21stt17,12/31/2020,Actual,State,"Other (Includes trafficking, possession, and other drug offenses.)",97800,86100,12000,34700,29400,11600,NA,1300,900
+p21stt20,9/30/2021,Actual,Federal,"Other (Includes trafficking, possession, and other drug offenses.)",66474,60200,6300,17400,21500,26100,NA,600,900
